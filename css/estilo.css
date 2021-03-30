@@ -140,7 +140,11 @@ h3 {
 .footer button:hover{
     background: #f56f3a;
     border-radius: 50px;
-    margin-bottom: 1.5em;
+    margin-bottom: 1em;
+}
+
+.footer a {
+    color: black;
 }
 
 .foto {
